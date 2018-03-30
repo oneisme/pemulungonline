@@ -1,12 +1,12 @@
 # pemulungonline
 Banyak browser web tetap ada permintaan POST cleartext dalam memori jauh setelah permintaan dibuat. Ini dapat disalahgunakan untuk mencuri kata sandi cleartext dari memori setelah permintaan masuk.
 
-Proyek [( https://github.com/ ) menunjukkan ekstraksi kata sandi dari memori yang sedang berjalan di sistem Windows. Alat ini melakukan hal yang sama untuk sistem Linux. Regex yang dipilih langsung dari proyek-proyekproyek-proyekpute
+Proyek (ini) menunjukkan ekstraksi kata sandi dari memori yang sedang berjalan di sistem Windows. Alat ini melakukan hal yang sama untuk sistem Linux. Regex yang dipilih langsung dari proyek-proyekproyek-proyekpute
 
-#
+#Contoh
 
 `` `
-sudo mimikittenz.py
+
 Ditemukan chrome running, scanning ....
 PID = 19789
 PID = 19800
@@ -37,4 +37,5 @@ PID = 3872
 ##  Pertimbangan ekstra
 
 Meskipun alat ini digunakan untuk mengekstrak parameter permintaan dari permintaan POST, karena Aplikasi Halaman Tunggal menjadi lebih populer, tetap variabel kata sandi akan tetap ada, karena pengembang tidak memodifikasinya. Layanan ini akan dapat dieksploitasi menggunakan metode simaliar ke metode yang menggunakan alatini
-# Jangan pakai alat saya, gunakan yang ini
+# Jangan pakai alat saya, gunakan yang ini ya.
+# KHUSUS YG UDAH DEWASA AJA
