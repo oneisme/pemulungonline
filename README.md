@@ -1,4 +1,5 @@
 # pemulungonline
+# author : godeyes_wongNdeso 
 Banyak browser web tetap ada permintaan POST cleartext dalam memori jauh setelah permintaan dibuat. Ini dapat disalahgunakan untuk mencuri kata sandi cleartext dari memori setelah permintaan masuk.
 
 Proyek (ini) menunjukkan ekstraksi kata sandi dari memori yang sedang berjalan di sistem Windows. Alat ini melakukan hal yang sama untuk sistem Linux. Regex yang dipilih langsung dari proyek-proyekproyek-proyekpute
